@@ -1,6 +1,6 @@
 spring:
   application:
-    name: user-service
+    name: congig-test
 
 eureka:
   instance:
